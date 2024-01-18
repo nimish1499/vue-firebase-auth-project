@@ -5,7 +5,6 @@ This project is a Vue.js web application that utilizes the composition API of Vu
 
 The live version of this project can be viewed [here]((https://nimish-vue-firebase-authentication.netlify.app/)).
 
-# Vue 3 + TypeScript + Vite + Firebase + Pinia Authentication Project
 
 
 
@@ -29,7 +28,7 @@ Ensure you have the following installed:
 To get the project up and running on your local machine, follow these steps:
 
 1.Clone the repository:
-   git clone https://github.com/nimish1499/web-app-design-assignment/tree/main:
+   git clone https://github.com/nimish1499/vue-firebase-auth-project.git:
 
 ## Getting Started
 
