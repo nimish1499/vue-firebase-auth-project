@@ -3,7 +3,7 @@ This project is a Vue.js web application that utilizes the composition API of Vu
 
 ## Deployment:
 
-The live version of this project can be viewed [here]((https://nimish-vue-firebase-authentication.netlify.app/)).
+The live version of this project can be viewed [here](https://nimish-vue-firebase-authentication.netlify.app/).
 
 
 
