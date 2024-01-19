@@ -1,9 +1,9 @@
-# vue-firebase-auth-project
+# Firebase Authentication using Vue.js
 This project is a Vue.js web application that utilizes the composition API of Vue 3, along with TypeScript and Vite for rapid development. It features user authentication through Firebase and uses Pinia for state management.
 
 ## Deployment:
 
-The live version of this project can be viewed [here](https://nimish-vue-firebase-authentication.netlify.app/).
+The live version of this project can be viewed [here](https://nimish-vue-firebase-authenticator.netlify.app/).
 
 
 
